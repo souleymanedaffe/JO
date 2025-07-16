@@ -192,7 +192,7 @@ Pour une liste complète des médaillés français, vous pouvez consulter la sou
 try:
     client = OpenAI(
         base_url="https://integrate.api.nvidia.com/v1",  # URL de l'API NVIDIA
-        api_key="")
+        api_key="") 
 	
 
     # Définir le modèle par défaut pour OpenAI
